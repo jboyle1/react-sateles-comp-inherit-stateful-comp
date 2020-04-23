@@ -1,4 +1,4 @@
-### https://react-sateless-comp-inherit-st.herokuapp.com/
+### https://jboyle1.github.io/react-sateless-comp-inherit-stateful-comp//
  
 ## React Sateless Component inherits from Stateful Component 
 
