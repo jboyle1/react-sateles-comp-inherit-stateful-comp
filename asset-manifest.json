@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-sateless-comp-inherit-stateful-comp/static/css/main.d1b05096.chunk.css",
+    "main.js": "/react-sateless-comp-inherit-stateful-comp/static/js/main.f71a4643.chunk.js",
+    "main.js.map": "/react-sateless-comp-inherit-stateful-comp/static/js/main.f71a4643.chunk.js.map",
+    "runtime-main.js": "/react-sateless-comp-inherit-stateful-comp/static/js/runtime-main.d9262de6.js",
+    "runtime-main.js.map": "/react-sateless-comp-inherit-stateful-comp/static/js/runtime-main.d9262de6.js.map",
+    "static/js/2.3ef7c37c.chunk.js": "/react-sateless-comp-inherit-stateful-comp/static/js/2.3ef7c37c.chunk.js",
+    "static/js/2.3ef7c37c.chunk.js.map": "/react-sateless-comp-inherit-stateful-comp/static/js/2.3ef7c37c.chunk.js.map",
+    "index.html": "/react-sateless-comp-inherit-stateful-comp/index.html",
+    "precache-manifest.24f39efb68e79d71227dfce5ec39a7cd.js": "/react-sateless-comp-inherit-stateful-comp/precache-manifest.24f39efb68e79d71227dfce5ec39a7cd.js",
+    "service-worker.js": "/react-sateless-comp-inherit-stateful-comp/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/react-sateless-comp-inherit-stateful-comp/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.3ef7c37c.chunk.js.LICENSE.txt": "/react-sateless-comp-inherit-stateful-comp/static/js/2.3ef7c37c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9262de6.js",
+    "static/js/2.3ef7c37c.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.f71a4643.chunk.js"
+  ]
+}
