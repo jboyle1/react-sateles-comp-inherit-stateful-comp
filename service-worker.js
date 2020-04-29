@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-sateless-comp-inherit-stateful-comp/precache-manifest.24f39efb68e79d71227dfce5ec39a7cd.js"
+  "/react-sateless-comp-inherit-stateful-comp/precache-manifest.d5182960fda6516e69b51e4e7a83cb01.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1a93216d353c394f56aa0bb32b29016a",
+    "revision": "3e8524dae076e878b92b8ff782a9bba5",
     "url": "/react-sateless-comp-inherit-stateful-comp/index.html"
   },
   {
-    "revision": "0175c32019e5b25067de",
+    "revision": "cf95061bba4ccb9a1129",
     "url": "/react-sateless-comp-inherit-stateful-comp/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-sateless-comp-inherit-stateful-comp/static/js/2.3ef7c37c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0175c32019e5b25067de",
-    "url": "/react-sateless-comp-inherit-stateful-comp/static/js/main.f71a4643.chunk.js"
+    "revision": "cf95061bba4ccb9a1129",
+    "url": "/react-sateless-comp-inherit-stateful-comp/static/js/main.4862c081.chunk.js"
   },
   {
     "revision": "ab4e864bde68148ce001",
