@@ -19,8 +19,8 @@ export class Child extends React.Component {
           id="great-names"
           onChange={this.handleChange}>
 
-          <option value="Jed">Jed</option>
           <option value="Harry">Harry</option>
+          <option value="Tom">Tom</option>
           <option value="Lucy">Lucy</option>
         </select>
       </div>
